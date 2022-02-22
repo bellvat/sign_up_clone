@@ -6,10 +6,10 @@ RSpec.describe SignUpClone::SignUpController do
     end
   end
 
-  describe '#show' do
-    it "renders sign_up_form" do
-      controller = described_class.new
-      expect(controller.show).to eq 'ok'
-    end
-  end
+  #describe '#show' do
+  #  it "renders sign_up_form" do
+  #    controller = described_class.new
+  #    expect(controller.show).should render_template 'test'
+  #  end
+  #end
 end

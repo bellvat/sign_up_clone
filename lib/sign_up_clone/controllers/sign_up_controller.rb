@@ -4,6 +4,6 @@ module SignUpClone
     def index
       'ok'
     end
-    
+
   end
 end
