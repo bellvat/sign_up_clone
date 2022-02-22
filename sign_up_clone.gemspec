@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["bellvat"]
   spec.email         = ["msirathanarun@gmail.com"]
 
-  spec.summary       = %q{This gem can be used for user sign up.}
+  spec.summary       = %q{This gem is a toy gem to understand how a gem is built. It attempted to use actionpack and inherit from ActionController. However in its current form, calling #index and returns 'ok'.}
   spec.homepage      = "https://github.com/bellvat/sign_up_clone"
   spec.license       = "MIT"
 
