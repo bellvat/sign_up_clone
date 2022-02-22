@@ -5,7 +5,7 @@ require "sign_up_clone/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "sign_up_clone"
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.authors       = ["bellvat"]
   spec.email         = ["msirathanarun@gmail.com"]
 
